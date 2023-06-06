@@ -5,6 +5,7 @@ All projects except [Hello World](#hello-world) can be run by executing `cargo r
 1. [Hello World](#hello-world)
 2. [Hello Cargo](#hello-cargo)  
 3. [Guessing Game](#guessing-game)
+4. [Variables](#variables)
 
 ## Hello World
 Just your basic hello world script.  
@@ -12,3 +13,5 @@ Just your basic hello world script.
 First introduction to cargo, the rust build system and package manager.  
 ## Guessing Game
 Learned how to import std library functions and external dependencies. Also introduced to strong static variable types and the rust match function.  
+## Variables
+Learning concepts of variables, functions, comments, and control flow that are common between Rust and most other languages.  
