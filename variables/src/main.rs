@@ -10,5 +10,9 @@ fn main() {
         let x = x * 2;
         println!("the value of x is {x}");
     }
+
+    loop {
+        println!("Looping is fun!");
+    }
     
 }
