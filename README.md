@@ -8,6 +8,7 @@ All projects except [Hello World](#hello-world) can be run by executing `cargo r
 4. [Variables](#variables)
 5. [Adder](#adder)
 6. [Grep CLI](#grep-cli)
+7. [Hello](#hello)
 
 ## Hello World
 Just your basic hello world script.  
@@ -21,3 +22,6 @@ Learning concepts of variables, functions, comments, and control flow that are c
 Learning how to write automatic library tests in Rust.  
 ## Grep CLI
 Applied principals learned up to this point to make a command line interface for a grep program that searches and returns all lines that contain a given string.  
+## Hello
+Created a basic multithreaded webserver using the rust standard library. It can be run from the hello directory with `cargo run`.  
+It will return the contents of hello.html for all get requests to `127.0.0.1:8000`.  
