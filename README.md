@@ -7,6 +7,7 @@ All projects except [Hello World](#hello-world) can be run by executing `cargo r
 3. [Guessing Game](#guessing-game)
 4. [Variables](#variables)
 5. [Adder](#adder)
+6. [Grep CLI](#grep-cli)
 
 ## Hello World
 Just your basic hello world script.  
@@ -18,3 +19,5 @@ Learned how to import std library functions and external dependencies. Also intr
 Learning concepts of variables, functions, comments, and control flow that are common between Rust and most other languages.  
 ## Adder
 Learning how to write automatic library tests in Rust.  
+## Grep CLI
+Applied principals learned up to this point to make a command line interface for a grep program that searches and returns all lines that contain a given string.  
