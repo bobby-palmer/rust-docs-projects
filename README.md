@@ -1,6 +1,6 @@
-# My Rust intro projects
-This repository will contain all projects I complete as part of the tutorials in "The Rust Programming Language".  
-All projects except [Hello World](#hello-world) can be run by executing `cargo run` inside their respective directories.  
+# My Rust intro projects :crab:
+This repository will contain all the basic projects I complete on my journey as an aspiring rustacian.  
+Projects 1 - 7 are all sources from "The book" and the rest will be pulled from a variety of sources.  
 ## The Projects  
 1. [Hello World](#hello-world)
 2. [Hello Cargo](#hello-cargo)  
