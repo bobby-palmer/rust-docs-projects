@@ -1,6 +1,6 @@
 # My Rust intro projects :crab:
 This repository will contain all the basic projects I complete on my journey as an aspiring rustacian.  
-Projects 1 - 7 are all sources from "The book" and the rest will be pulled from a variety of sources.  
+Projects 1 - 7 are all sourced from "The book" and the rest will be self generated or inspired by other rustacians.  
 ## The Projects  
 1. [Hello World](#hello-world)
 2. [Hello Cargo](#hello-cargo)  
