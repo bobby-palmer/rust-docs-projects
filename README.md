@@ -9,6 +9,7 @@ Projects 1 - 7 are all sourced from "The book" and the rest will be self generat
 5. [Adder](#adder)
 6. [Grep CLI](#grep-cli)
 7. [Hello](#hello)
+8. [Lists](#lists)
 
 ## Hello World
 Just your basic hello world script.  
@@ -23,5 +24,6 @@ Learning how to write automatic library tests in Rust.
 ## Grep CLI
 Applied principals learned up to this point to make a command line interface for a grep program that searches and returns all lines that contain a given string.  
 ## Hello
-Created a basic multithreaded webserver using the rust standard library. It can be run from the hello directory with `cargo run`.  
-It will return the contents of hello.html for all get requests to `127.0.0.1:8000`.  
+Created a basic multithreaded webserver using the rust standard library. It can be run from the hello directory with `cargo run`. It will return the contents of hello.html for all get requests to `127.0.0.1:8000`.  
+## Lists
+Implementing a variety of linked lists to become familiar with the Rust borrow checker among other features.  
